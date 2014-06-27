@@ -2630,5 +2630,4 @@
 'your e-mail' => 'Your e-mail address',
 );
 
-
 #EOF
