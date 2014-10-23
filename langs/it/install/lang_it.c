@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Italiano (it) Data File
  *
  * This file is part of the IPFire.
@@ -27,9 +27,7 @@
  
 #include "libsmooth.h"
 
-
 char *it_tr[] = {
-
 
 /* TR_ISDN */
 "ISDN",
@@ -78,11 +76,11 @@ char *it_tr[] = {
 /* TR_AUTODETECT */
 "* AUTODETECT *",
 /* TR_BUILDING_INITRD */
-"Building ramdisk...",
+"Creando il ramdisk...",
 /* TR_CANCEL */
 "Cancella",
 /* TR_CARD_ASSIGNMENT */
-"assegnazione Scheda",
+"Assegnazione Scheda",
 /* TR_CHECKING */
 "Controllo URL...",
 /* TR_CHECKING_FOR */
@@ -92,17 +90,17 @@ char *it_tr[] = {
 /* TR_CHOOSE_THE_ISDN_PROTOCOL */
 "Scegliere il protocollo ISDN desiderato.",
 /* TR_CONFIGURE_DHCP */
-"Configure the DHCP server by entering the settings information.",
+"Configura il server DHCP entrando nelle impostazioni..",
 /* TR_CONFIGURE_NETWORKING */
-"Configure networking",
+"Configura la rete",
 /* TR_CONFIGURE_NETWORKING_LONG */
-"You should now configure networking by first loading the correct driver for the GREEN interface. You can do this by either auto-probing for a network card, or by choosing the correct driver from a list. Note that if you have more then one network card installed, you will be able to configure the others later on in the installation. Also note that if you have more then one card which is the same type as GREEN and each card requires special module parameters, you should enter parameters for all cards of this type such that all cards can become active when you configure the GREEN interface.",
+"Adesso dovresti configurare la rete caricando prima il driver corretto per l’intefaccia GREEN. Puoi farlo o impostando l’auto-probing per la scheda di rete oppure scegliendo il driver corretto da una lista. Ricorda che se hai più di una scheda di rete installata, potrai configurare le altre più tardi durante l’installazione. Ricorda anche che se hai una scheda di rete dello stesso tipo della GREEN e ogni scheda richiede parametri speciali, dovresti inserire parametri per tutte le schede di questo tipo così tutte le schede possono diventare attive quando configuri l’interfaccia GREEN.",
 /* TR_CONFIGURE_NETWORK_DRIVERS */
 "Configure network drivers, and which interface each card is assigned to.  The current configuration is as follows:\n\n",
 /* TR_CONFIGURE_THE_CDROM */
 "Configure the CDROM by choosing the appropriate IO address and/or IRQ.",
 /* TR_CONGRATULATIONS */
-"Congratulations!",
+"Congratulazioni!",
 /* TR_CONGRATULATIONS_LONG */
 "%s was successfully installed. Please remove any CDROMs in the computer. Setup will now run where you may configure ISDN, network cards, and the system passwords. After Setup has been completed, you should point your web browser at https://%s:444 (or whatever you name your %s), and configure dialup networking (if required) and remote access.",
 /* TR_CONTINUE_NO_SWAP */
@@ -138,7 +136,7 @@ char *it_tr[] = {
 /* TR_DNS_GATEWAY_WITH_GREEN */
 "Your configuration does not utilise an ethernet adaptor for its RED interface.  DNS and Gateway information for dialup users is configured automatically at dialup time.",
 /* TR_DOMAINNAME */
-"Domain name",
+"Nome Dominio",
 /* TR_DOMAINNAME_CANNOT_BE_EMPTY */
 "Domain name cannot be empty.",
 /* TR_DOMAINNAME_CANNOT_CONTAIN_SPACES */
@@ -446,7 +444,7 @@ char *it_tr[] = {
 /* TR_START_ADDRESS_CR */
 "Start address\n",
 /* TR_STATIC */
-"Static",
+"Statico",
 /* TR_SUGGEST_IO */
 "(suggest %x)",
 /* TR_SUGGEST_IRQ */
@@ -596,3 +594,4 @@ char *it_tr[] = {
 /* TR_IDENTIFY_NOT_SUPPORTED */
 "Funzione non è supportata da questa porta.",
 };
+
