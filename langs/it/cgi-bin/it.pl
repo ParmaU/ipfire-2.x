@@ -2527,7 +2527,7 @@
 'urlfilter weekday error' => 'There must be at least one day selected',
 'urlfilter weekly' => 'settimanale',
 'urlfilter whitelist always allowed' => 'Consentire whitelist personalizzate per i clienti vietati',
-'urlfilter wrong filetype' => 'File has not the extension .tar.gz',
+'urlfilter wrong filetype' => 'Il file non ha l'estensione .tar.gz',
 'use' => 'Use',
 'use a pre-shared key' => 'Use a pre-shared key:',
 'use dov' => 'Use data over voice (DOV):',
@@ -2580,9 +2580,9 @@
 'vpn remote id' => 'Remote ID',
 'vpn subjectaltname' => 'Subject Alt Name',
 'vpn watch' => 'Restart net-to-net vpn when remote peer IP changes (dyndns).',
-'waiting to synchronize clock' => 'Waiting to synchronize clock',
+'waiting to synchronize clock' => 'In attesa di sincronizzare l'orologio',
 'warn when traffic reaches' => 'Warn when traffic reaches x %',
-'warning messages' => 'Warning messages',
+'warning messages' => 'messaggio d'avviso',
 'was deleted' => 'was deleted',
 'web hits' => 'Numero totale di siti web che soddisfano i criteri selezionati per',
 'web proxy' => 'Proxy Web',
@@ -2664,8 +2664,8 @@
 'yearly firewallhits' => 'yearly firewallhits',
 'yes' => 'Si',
 'you can only define one roadwarrior connection when using pre-shared key authentication' => 'You can only define one Roadwarrior connection when using pre-shared key authentication.<br />Either you already have a Roadwarrior connection with pre-shared key authentication, or you\'re trying to add one now.',
-'your department' => 'Your department',
-'your e-mail' => 'Your e-mail address',
+'your department' => 'Il tuo reparto',
+'your e-mail' => 'Il tuo indirizzo e-mail',
 );
 
 #EOF
