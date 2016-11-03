@@ -1,10 +1,10 @@
 %tr = ( 
 %tr,
 
-'guaranteed bandwith' => 'Guaranteed bandwith',
+'guaranteed bandwith' => 'Banda Garantita',
 'guardian alertfile' => 'Alertfile',
-'guardian configuration' => 'Guardian Configuration',
-'guardian ignorefile' => 'Ignorefile',
+'guardian configuration' => 'Configurazione Guardian',
+'guardian ignorefile' => 'Ignora file',
 'guardian interface' => 'Interface',
 'guardian logfile' => 'Logfile',
 'guardian loglevel_off' => 'Off',
@@ -17,7 +17,7 @@
 'guardian priolevel_medium' => '2 - Medium',
 'guardian priolevel_low' => '3 - Low',
 'guardian priolevel_very_low' => '4 - Very low',
-'guardian timelimit' => 'Timelimit',
+'guardian timelimit' => 'Limite tempo',
 
 );
 
