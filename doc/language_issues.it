@@ -1,4 +1,4 @@
-WARNING: translation string unused: Async logging enabled
+WARNING: translation string unused: Async logging enabled 
 WARNING: translation string unused: Client status and controlc
 WARNING: translation string unused: ConnSched scheduler
 WARNING: translation string unused: ConnSched select profile
@@ -7,8 +7,8 @@ WARNING: translation string unused: Level7 rule
 WARNING: translation string unused: Local VPN IP
 WARNING: translation string unused: Ping
 WARNING: translation string unused: Queuelenght
-WARNING: translation string unused: Remote IP
-WARNING: translation string unused: Remote VPN IP
+WARNING: translation string unused: Ip Remoto
+WARNING: translation string unused: IP VPN Remoto
 WARNING: translation string unused: Resolv
 WARNING: translation string unused: TOS Bits
 WARNING: translation string unused: Verbose
